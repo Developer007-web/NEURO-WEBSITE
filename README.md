@@ -1,4 +1,5 @@
 NETS - Neuro Engineering and Training School
+WEBSITE LINK---- https://moonlit-mousse-88eca8.netlify.app/
 Welcome to the official repository for the Neuro Engineering and Training School (NETS) web application. This project is a modern web application built with a fast, efficient, and type-safe stack, designed to provide a seamless user experience.
 This project was bootstrapped from a Vite + React + TypeScript starter, providing a solid foundation for rapid development and a fantastic developer experience.
 ✨ Core Technologies
