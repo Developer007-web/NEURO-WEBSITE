@@ -18,7 +18,7 @@ Make sure you have Node.js (version 18.x or higher) and npm installed on your ma
 Installation
 Clone the repository
 Generated sh
-git clone https://github.com/your-username/your-repository-name.git
+git clone :(https://github.com/Developer007-web/NEURO-WEBSITE.git)
 cd your-repository-name
 Use code with caution.
 Sh
